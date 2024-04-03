@@ -6,7 +6,7 @@
 
 O player controla um barril e deve coletar frutas 🍎🍌 e desviar de bombas💣 afim de conseguir o maximo de pontos
 
-## controles
+## Controles
 
 use as setas esquerda e direita ou então A e D para mover o barril
 
